@@ -1,0 +1,6 @@
+.item_task 
+{
+border: 1px solid black;
+    display :flex;
+    justify-content: space-around;
+}

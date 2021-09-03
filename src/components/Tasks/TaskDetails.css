@@ -1,0 +1,22 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding:10px
+}
+
+button{
+    font-size: 1rem;
+}
+
+.expense_list{
+    border:1px solid green
+}
+
+.ul_list{
+    width: 90%;
+    margin:auto;
+    padding: 0px;
+    border:1px solid red;
+   
+}
