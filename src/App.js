@@ -8,7 +8,7 @@ function App() {
 
   useEffect(()=>{
     const temp= JSON.parse(localStorage.getItem("my_tasks"));
-
+  console.log("hi i have forked it under my supervision");
     if(temp != null)
       setTasks([...temp]);
     
